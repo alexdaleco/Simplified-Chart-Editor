@@ -180,7 +180,7 @@ function App() {
           </div>
         </div>
         <div className="page-control">
-          <div className="page-item selected">
+          <div className="page-item selected">˝
             <div className="page-thumb-label">
               <img className="page-icon" src="/icons/icon-chart-slider.svg" alt="Page 1" />
               1
